@@ -21,3 +21,9 @@ This repository contains the code for the Thameen Jewelry web application. It is
 - **Add to Cart:** Add desired products to the shopping cart.
 - **Checkout:** Review the cart and proceed to checkout.
 - **Admin Panel:** Access the admin panel for product management.
+
+# License
+This web application was developed as a group project for the CIS423 Web Based Systems course at Imam Abdulrahman Bin Faisal University (IAU).
+
+#Contact
+For any inquiries or support, please contact me at boushraalmazroua@gmail.com
